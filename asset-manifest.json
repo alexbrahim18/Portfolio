@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alexbrahim18/Portfolio.git/static/css/main.859ee4ba.css",
+    "main.js": "/alexbrahim18/Portfolio.git/static/js/main.01bd5572.js",
+    "static/js/787.fc6c31ee.chunk.js": "/alexbrahim18/Portfolio.git/static/js/787.fc6c31ee.chunk.js",
+    "static/media/alex2.png": "/alexbrahim18/Portfolio.git/static/media/alex2.c39ea7e3bbc31b8a5b32.png",
+    "index.html": "/alexbrahim18/Portfolio.git/index.html",
+    "main.859ee4ba.css.map": "/alexbrahim18/Portfolio.git/static/css/main.859ee4ba.css.map",
+    "main.01bd5572.js.map": "/alexbrahim18/Portfolio.git/static/js/main.01bd5572.js.map",
+    "787.fc6c31ee.chunk.js.map": "/alexbrahim18/Portfolio.git/static/js/787.fc6c31ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859ee4ba.css",
+    "static/js/main.01bd5572.js"
+  ]
+}
