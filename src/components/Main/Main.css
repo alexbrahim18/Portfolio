@@ -1,0 +1,34 @@
+.princ__tit{
+    font-family: 'Poppins', sans-serif;
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.animado{
+    animation: fadeInDown;
+    animation-duration: 1.5s;
+
+}
+
+.oculto{
+    opacity: 0;
+}
+
+.name{
+    color: #1c7c54;
+}
+
+
+.main__img{
+    border-radius: 50% 30% / 30% 50%;
+}
+
+
+.main{
+    height: 100vh;
+    margin-top:3%;
+}
+
+a i {
+    color: black;
+}

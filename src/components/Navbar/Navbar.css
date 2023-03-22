@@ -1,0 +1,36 @@
+html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    padding: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    box-shadow: 0 1px 4px rgb(146 161 176 / 15%);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+    
+}
+
+ul li {
+    list-style: none;
+}
+
+
+.nav__link{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+nav .items:hover{
+    text-decoration: underline #1c7c54;
+    text-decoration-thickness: 2.5px;
+    
+}

@@ -1,0 +1,28 @@
+
+
+
+.tit__color{
+    font-family: "poppins", sans-serif;
+    color: #1c7c54;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+
+.img__sobremi{
+    border-radius: 100px;
+    
+}
+
+
+.text__negro{
+    font-family: "poppins", sans-serif;
+    text-align: start;
+    font-weight: lighter;
+}
+
+.sub__tit{
+    text-align: start;
+    font-family: "poppins", sans-serif;
+    font-size: 24px;
+}
